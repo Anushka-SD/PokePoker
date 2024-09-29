@@ -1,20 +1,22 @@
-101,psychic,Jirachi,60,20
-102,psychic,Alakazam,80,30
-103,psychic,Dusknoir,120,50
-104,psychic,Lugia,80,30
-105,psychic,Cresselia,80,40
-106,psychic,Espeon δ,70,30
-107,psychic,Gardevoir,100,40
-108,psychic,Gengar,100,50
-109,psychic,Gengar,80,20
-110,psychic,Mewtwo,70,30
-111,psychic,Mew,70,40
-112,psychic,Dark Espeon,60,10
-113,psychic,Celebi,50,10
-114,psychic,Haunter,50,20
-115,psychic,Gardevoir δ,100,50
-116,psychic,Dark Hypno,70,40
-117,psychic,Gastly,50,20
-118,psychic,Metagross,130,70
-119,psychic,Espeon,90,60
-120,psychic,Gardevoir,110,60
+name,hp,attack,
+Azumarill,90,30,ok
+Blastoise,130,20,ok
+Articuno,70,30,ok
+Oshawott,60,30,ok
+Kingdra,90,30,ok
+Swampert,110,60,ok
+Crawdaunt,90,50,ok
+Manaphy,70,20,ok
+Seadra,90,10,ok
+Horsea,60,10,okj
+Gyarados,130,30,ok
+Froslass,80,50,ok
+Psyduck,80,10,ok
+Vaporeon,70,20,ok
+Mudkip,50,10,ok
+Buizel,60,30,ok
+Kyogre,80,40,ok
+Mamoswine,140,40,ok
+Lapras,120,20,ok
+Omastar,100,10,ok
+Dark Blastoise,70,,

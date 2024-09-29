@@ -46,3 +46,4 @@ class Slider:
         # Adjust scroll position based on slider handle position
         max_scroll = max(0, self.total_height - self.screen_height)
         self.scroll_position = self.slider_handle_pos * max_scroll // (self.slider_height - self.slider_handle_height)
+   

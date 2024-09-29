@@ -1,0 +1,2 @@
+-- Active: 1713030660803@@127.0.0.1@3306@mini_project
+SELECT * FROM pokemon;
